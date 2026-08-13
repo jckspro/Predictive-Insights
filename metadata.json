@@ -1,0 +1,8 @@
+{
+  "name": "Syslog predictive Insights platform",
+  "description": "Production-quality network telemetry dashboard connecting to Neo4j over Bolt protocol for network anomalies, security events, and predictive maintenance analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
